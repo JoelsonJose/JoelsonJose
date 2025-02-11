@@ -8,6 +8,7 @@
 )](https://www.linkedin.com/in/joelson-josé-7722b9295/)
 
 ![JoelsonJose GitHub stats](https://github-readme-stats.vercel.app/api?username=JoelsonJose&show_icons=true&theme=dracula)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoelsonJose)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que estou aprendendo
