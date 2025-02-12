@@ -8,11 +8,10 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/joelson-josé-7722b9295/)
 
-![JoelsonJose GitHub stats](https://github-readme-stats.vercel.app/api?username=JoelsonJose&show_icons=true&theme=dracula)
+![JoelsonJose GitHub stats](https://github-readme-stats.vercel.app/api?username=JoelsonJose&show_icons=true&theme=dracula)<br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoelsonJose)](https://github.com/anuraghazra/github-readme-stats)
 
-## Tecnologias que estou aprendendo
+## Tecnologias que estou aprendendo<br/>
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -28,9 +27,9 @@
 
 
 
-![mario](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+<br/>![mario](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)<br/>
 
-Apaixonado por tecnologia, inovações e por resolver problemas através da programação
+<br/>Apaixonado por tecnologia, inovações e por resolver problemas através da programação
 
 ## Contato:
 <img align="center" alt="python" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>  joelsonjose222@gmail.com
