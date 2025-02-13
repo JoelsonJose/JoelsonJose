@@ -27,7 +27,7 @@
 <br/>Apaixonado por tecnologia, inovações e por resolver problemas através da programação
 
 ## Contato:
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>)](joelsonjose222@gmail.com)
+<img align="center" alt="python" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> joelsonjose222@gmail.com
 
 [![Instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 )](https://www.instagram.com/joelsonjosefilho22/)
